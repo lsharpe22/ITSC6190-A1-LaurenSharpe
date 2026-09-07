@@ -5,7 +5,7 @@
 This project demonstrates a two-container application using Docker and Docker Compose. 
 One container runs a PostgreSQL database containing seeded trip data. The second 
 container runs a Python application that connects to the database, performs SQL queries, 
-computes summary statistics, and writes the results to `out/summary.json`.
+computes summary statistics, and writes the results to out/summary.json.
 
 ## Project Structure
 
